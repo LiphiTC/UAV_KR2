@@ -1,0 +1,17 @@
+build*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+Makefile
+compile_commands.json
+*.user
+*.user.*
+.qtcreator/
+*.o
+*.a
+*.so
+*.exe
+.DS_Store
